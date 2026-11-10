@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Product Catalogue</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <!-- Top Header -->
+    <header class="top-header">
+        <div class="logo-area">
+            <h1>Company logo and Tagline</h1>
+        </div>
+    </header>
+
+    <!-- Main Content Layout -->
+    <div class="catalogue-container">
+        
+        <!-- Left Sidebar -->
+        <aside class="sidebar" id="sidebar">
+            <!-- Categories will be dynamically injected here -->
+        </aside>
+
+        <!-- Right Frame (Image + JSON Details) -->
+        <main class="display-area">
+            
+            <!-- Product Image Area -->
+            <div class="image-section">
+                <div class="image-wrapper">
+                    <img id="current-image" src="" alt="Product image" style="display: none;">
+                </div>
+                <div class="image-navigation">
+                    <button id="btn-prev">&lt;&lt;</button>
+                    <span id="image-counter">0 of 0</span>
+                    <button id="btn-next">&gt;&gt;</button>
+                </div>
+            </div>
+
+            <!-- JSON Based Product Description -->
+            <div class="details-section">
+                <h2>JSON Based Product Description</h2>
+                <div id="product-details">
+                    <!-- Product details injected here -->
+                </div>
+            </div>
+
+        </main>
+    </div>
+
+    <script src="js/app.js"></script>
+</body>
+</html>
