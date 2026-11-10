@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Product Catalogue</title>
+    <link rel="stylesheet" href="css/catalogue.css">
+</head>
+<body>
+    
+    <!-- Optional: Link back to your main landing page -->
+    <nav style="padding: 10px 20px; background: #f4f4f4;">
+        <a href="portfolio_website.html" style="text-decoration: none; color: #333; font-weight: bold;">&larr; Back to Home</a>
+    </nav>
+
+    <!-- Isolated Catalogue Component -->
+    <div id="catalogue-app">
+        
+        <header class="top-header">
+            <div class="logo-area">
+                <h1>Company logo and Tagline</h1>
+            </div>
+        </header>
+
+        <div class="catalogue-container">
+            <!-- Left Sidebar Navigation -->
+            <aside class="sidebar" id="sidebar">
+                <!-- Javascript will inject categories here -->
+            </aside>
+
+            <!-- Right Product Display Frame -->
+            <main class="display-area">
+                <div class="image-section">
+                    <div class="image-wrapper">
+                        <img id="current-image" src="" alt="Product view" style="display: none;">
+                    </div>
+                    <div class="image-navigation">
+                        <button id="btn-prev">&lt;&lt;</button>
+                        <span id="image-counter">0 of 0</span>
+                        <button id="btn-next">&gt;&gt;</button>
+                    </div>
+                </div>
+
+                <div class="details-section">
+                    <h2>JSON Based Product Description</h2>
+                    <div id="product-details">
+                        <!-- Javascript will inject JSON details here -->
+                    </div>
+                </div>
+            </main>
+        </div>
+
+    </div>
+
+    <script src="js/catalogue.js"></script>
+</body>
+</html>

@@ -1,0 +1,22 @@
+{
+  "productName": "Premium Hotel Comforter",
+  "Item weight": "350 GSM",
+  "Item thickness": "4 Centimetres",
+  "colors": ["White", "Light Rust", "Teal", "Maroon", "Dark Brown", "Mauve"],
+  "size":["double", "single"],
+  "Special Feature": ["Lightweight", "Reversible", "Skin Friendly", "Breathable", "Fade Resistant", "Wrinkle Resistant"],
+  "Product Dimensions": "2.28L x 2.54W Meters",
+  "material": "100% Cotton Outer, Microfibre Fill",
+  "customization": "Custom branding tags available",
+  "Product Care Instructions": "Machine wash",
+  "About this item": "Down alternative comforter, marshmallow soft: Premium 250 GSM microfiber fill gives the plush, cloud-like softness of a down duvet with no feathers and no allergy - a soft Winter comforter that feels like a warm hug.",
+  "images": [
+    "comforter1.jpg",
+    "comforter2.jpg",
+    "comforter3.jpg",
+    "comforter4.jpg",
+    "comforter5.jpg",
+    "comforter6.jpg",
+    "comforter7.jpg"
+  ]
+}

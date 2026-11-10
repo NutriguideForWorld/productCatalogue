@@ -1,0 +1,15 @@
+{
+  "productName": "Premium Hand towels",
+  "weight": "Standard Commercial Grade",
+  "colors": [
+    "White",
+    "Beige",
+    "Custom"
+  ],
+  "material": "High Durability Specs",
+  "customization": "Custom branding and logo available",
+  "images": [
+    "image1.jpg",
+    "image2.jpg"
+  ]
+}
