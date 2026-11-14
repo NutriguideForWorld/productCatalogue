@@ -9,6 +9,7 @@ https://beautycave.in/product/seaweed-face-cream/
 
 ## Aroma theraphy
 https://www.nobilis.cz/
+https://www.florihana.com/
 
 ## 4. julian robes
 https://www.juliannarae.com/products/tivoli-allura-silk-robe#color=ROCA
