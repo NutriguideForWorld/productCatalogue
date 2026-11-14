@@ -14,5 +14,5 @@ https://www.juliannarae.com/products/tivoli-allura-silk-robe#color=ROCA
 https://katkariacreations.in/product/zen-living-bundle-meditation-box-with-buddha-aroma-oil-diffuser/
 
 
-## 5. Essential oils
+## 5. Essential oils (good writeout and common usage)
 https://wellbeing-spa.com/aromatherapy-in-wellness-how-essential-oils-enhance-relaxation-health-and-emotional-balance/
