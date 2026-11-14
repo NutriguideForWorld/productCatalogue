@@ -21,3 +21,95 @@ https://www.unitral.pl/blog-aromatherapy-and-relaxing-massage-what-is-the-differ
 
 ## 6. where to find spas
 https://www.fresha.com/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Keyword:
+
+Face Waxing
+Eyebrow Shaping
+Eyebrows & Lashes
+Arm Waxing
+Eyelash Tinting
+Hair Salons
+Eyelash Extensions
+Nail Salons
+Eyebrow Tinting
+Lash Lifts
+Eyebrow Wax
+Massages
+Gel Nails
+Underarm Wax
+Leg Waxing
+Eyebrow Lamination
+Blow Dries
+Manicures
+LED Light Therapy
+Lash Lift and Tint Treatments
+Chemical Peels
+Women's Haircuts
+Hair Treatments
+Men's Haircuts
+Pedicures
+Waxing Salons
+Permanent Hair Straightening
+Hair Styling
+Facials
+Beauty Salons
+Face Waxing
+Eyebrow Shaping
+Eyebrows & Lashes
+Arm Waxing
+Eyelash Tinting
+Hair Salons
+Eyelash Extensions
+Nail Salons
+Eyebrow Tinting
+Lash Lifts
+Eyebrow Wax
+Massages
+Gel Nails
+Underarm Wax
+Leg Waxing
+Eyebrow Lamination
+Blow Dries
+Manicures
+LED Light Therapy
+Lash Lift and Tint Treatments
+Chemical Peels
+Women's Haircuts
