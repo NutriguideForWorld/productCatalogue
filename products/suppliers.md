@@ -55,7 +55,10 @@ https://www.fresha.com/
 
 
 
-
+## to target:
+1. Spas,
+2. Aromatheraphy, Sports injury Surgeons (clinics, physiotheraphist)
+3. 
 
 
 
