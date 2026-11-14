@@ -1,5 +1,19 @@
 
 
+
+
+## xxx
+If you are evaluating these brands for distribution or sourcing in India, request:
+1. GC-MS report for every essential oil.
+2. Certificate of Analysis (COA).
+3. Safety Data Sheet (SDS/MSDS).
+4. Botanical name and country of origin.
+5. Organic certification, where applicable.
+6. IFRA documentation for fragrance applications.
+7. MOQ, bulk pricing and export availability.
+8. Shelf life and recommended storage conditions.
+
+
 ## xxx
 Lavender oil	Relaxation, massage, skincare
 Tea tree oil	Personal care and skincare
