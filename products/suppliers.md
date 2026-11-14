@@ -16,3 +16,4 @@ https://katkariacreations.in/product/zen-living-bundle-meditation-box-with-buddh
 
 ## 5. Essential oils (good writeout and common usage)
 https://wellbeing-spa.com/aromatherapy-in-wellness-how-essential-oils-enhance-relaxation-health-and-emotional-balance/
+https://www.unitral.pl/blog-aromatherapy-and-relaxing-massage-what-is-the-difference
