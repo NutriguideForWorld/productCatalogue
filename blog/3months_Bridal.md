@@ -33,6 +33,7 @@ Essential oils work best as part of a simple, consistent routine rather than an 
 
 
 ### Skin Benefits Using Essential Oils (Inspired by the Article's Themes)
+
 •	Calming Redness & Visibly Stressed Skin: Just as anti-inflammatory skincare helps soothe flushed or reactive skin, diluted lavender, sandalwood, and geranium essential oils are popular in calming facial blends for comforting redness and creating a relaxed, even-looking complexion.
 •	Supporting Breakout-Prone & Congested Skin: Where the article highlights reducing acne-causing factors and keeping pores clear, tea tree and lavender essential oils are widely used in blemish-care routines to help refresh breakout-prone skin and keep excess surface buildup in check.
 •	Promoting a Brighter, More Even-Looking Tone: Echoing the article's focus on dullness and uneven tone, geranium and frankincense essential oils are frequently chosen in evening skincare rituals to help refresh dull-looking skin and encourage a more luminous, balanced appearance.
