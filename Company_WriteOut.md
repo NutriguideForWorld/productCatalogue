@@ -18,7 +18,7 @@ While we fulfill large-scale bulk orders every month, we never let volume overri
 
 Throughout the manufacturing process, random samples undergo rigorous analysis—including **GC-MS** (Gas Chromatography-Mass Spectrometry) and **strict pesticide testing**—to ensure our **quality and purity** standards meet international norms. 
 
-###Why Choose Products of DigitalAssets?
+### Why Choose Products of DigitalAssets?
 
 Using just a drop of DigitalAssets oils is not only a reliable way to enhance the fragrance and therapeutic benefits of thousands of formulations—whether in aromatherapy, cosmetics, perfumery, or Ayurvedic wellness—but also the best way to guarantee maximum purity and potency. 
 Our range of Essential Oils and Herbal Oils is extracted from pure plant concentrates and regarded as a powerhouse of natural efficacy by B2B buyers and everyday consumers alike. 
@@ -32,7 +32,9 @@ Only organically cultivated, mature, and nutrient-rich herbs, flowers, roots, an
 
 DigitalAssets follows a sustainable development strategy for manufacturing and exporting large batches of bulk drums and retail-ready bottles. Specialists at our purpose-built plant ensure uniform aroma, chemical profile, and consistency from batch to batch. 
 Plant debris, sediments, and impurities are carefully filtered out, and every batch is verified for overall purity using advanced testing methodologies in a dedicated quality-control lab. Only oils that are potent, additive-free, safe for use, have optimal shelf life, and are securely **packed in leak-proof**, **UV-protected**, **airtight packaging** (ranging from 15ml, 50ml, and 100ml bottles to 1kg, 5kg, and 25kg aluminum/HDPE drums) are approved for release and export. 
-QualityAs soon as aromatic herbs and flowers are harvested, their volatile compounds can degrade quickly, making immediate and careful processing critical to preserving their therapeutic profile. Botanicals are handpicked, sorted, and distilled in strict accordance with international quality requirements. Rigorous sanitary conditions are maintained at our facility without cutting corners, and every batch undergoes comprehensive testing. Among the **vital factors analyzed are aroma profile**, **refractive index**, **optical rotation**, **specific gravity**, and **active botanical constituents**.
+
+### Quality
+As soon as aromatic herbs and flowers are harvested, their volatile compounds can degrade quickly, making immediate and careful processing critical to preserving their therapeutic profile. Botanicals are handpicked, sorted, and distilled in strict accordance with international quality requirements. Rigorous sanitary conditions are maintained at our facility without cutting corners, and every batch undergoes comprehensive testing. Among the **vital factors analyzed are aroma profile**, **refractive index**, **optical rotation**, **specific gravity**, and **active botanical constituents**.
 
 ### Mission & Vision
 Working hand in hand with progressive Indian farmers and supplying sustainably produced essential and herbal oils that deliver unmatched purity and meet diverse industry needs has been the core mission of DigitalAssets. 
