@@ -31,3 +31,13 @@ Essential oils work best as part of a simple, consistent routine rather than an 
 •	Months 1–2 (Foundation & Patch Testing): Patch-test each diluted essential oil on the inner forearm for 24–48 hours before facial use. Start with low dilutions (typically around 0.5% to 1% essential oil in a carrier oil for facial blends—roughly 3 to 6 drops per 1 ounce / 30 ml of carrier oil) a few evenings a week, pairing with daily sunscreen and gentle cleansing.
 •	Month 3 (Consistency & Calm): Stick to the blends your skin tolerates best. Avoid trying brand-new, unverified essential oil recipes in the final two weeks before the wedding so there are no last-minute surprises.
 
+
+### Skin Benefits Using Essential Oils (Inspired by the Article's Themes)
+•	Calming Redness & Visibly Stressed Skin: Just as anti-inflammatory skincare helps soothe flushed or reactive skin, diluted lavender, sandalwood, and geranium essential oils are popular in calming facial blends for comforting redness and creating a relaxed, even-looking complexion.
+•	Supporting Breakout-Prone & Congested Skin: Where the article highlights reducing acne-causing factors and keeping pores clear, tea tree and lavender essential oils are widely used in blemish-care routines to help refresh breakout-prone skin and keep excess surface buildup in check.
+•	Promoting a Brighter, More Even-Looking Tone: Echoing the article's focus on dullness and uneven tone, geranium and frankincense essential oils are frequently chosen in evening skincare rituals to help refresh dull-looking skin and encourage a more luminous, balanced appearance.
+•	Softening the Look of Stubborn Dark Patches & Melasma-Prone Areas: While melasma is a stubborn, hormonally influenced concern best guided by a dermatologist alongside daily sunscreen, gentle botanical blends featuring geranium and frankincense can support overall skin comfort and a more uniform-looking tone over time.
+•	Improving Skin Texture & Softness: Much like routines aimed at smoother skin and more refined-looking pores, regular massage with a carrier oil infused with frankincense, lavender, or sandalwood helps leave rough patches feeling softer and smoother.
+•	Antioxidant & Free-Radical Support: Just as antioxidants help counter environmental stressors linked to dullness and premature signs of aging, botanical oils such as frankincense and geranium add aromatic, antioxidant-rich support to daily skincare routines.
+•	Gentle, Barrier-Mindful Routine Support: Rather than aggressive stripping, low-dilution essential oil blends (such as lavender, sandalwood, or geranium in a nourishing carrier oil) can complement a gentle, barrier-respecting skincare routine when patch-tested carefully.
+
