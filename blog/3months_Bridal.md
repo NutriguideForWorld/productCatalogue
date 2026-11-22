@@ -42,3 +42,30 @@ Essential oils work best as part of a simple, consistent routine rather than an 
 - Antioxidant & Free-Radical Support: Just as antioxidants help counter environmental stressors linked to dullness and premature signs of aging, botanical oils such as frankincense and geranium add aromatic, antioxidant-rich support to daily skincare routines.
 - Gentle, Barrier-Mindful Routine Support: Rather than aggressive stripping, low-dilution essential oil blends (such as lavender, sandalwood, or geranium in a nourishing carrier oil) can complement a gentle, barrier-respecting skincare routine when patch-tested carefully.
 
+### Frequently Asked Questions (FAQs)
+
+## 1. How long do essential oils take to show visible skin results? 
+With consistent use in a properly diluted routine, you may notice calmer-looking redness and softer skin texture within 2 to 4 weeks. For longer-term goals like supporting a more even-looking skin tone or fading the appearance of post-blemish marks, give your routine 8 to 12 weeks (around three months).
+
+## 2. Can essential oils be used every day on the face? 
+Yes, when properly diluted in a suitable carrier oil (typically at 0.5% to 1% for facial use—about 3 to 6 drops of essential oil per 30 ml / 1 oz of carrier oil), gentle blends can be used once daily, usually in your evening routine. If you are new to essential oils, start 2–3 nights a week and build up gradually.
+
+## 3. How should essential oils be applied to the skin for the best results? 
+For safe, effective, and soothing results, always blend pure essential oils into a nourishing carrier oil—such as jojoba, rosehip, or sweet almond oil—before applying them to your face. Because pure essential oils are richly concentrated plant extracts, diluting them (typically 3 to 6 drops per 30 ml / 1 oz of carrier oil) helps them absorb evenly, locks in moisture, and allows your skin to enjoy their full calming and glow-boosting benefits comfortably.
+
+## 4. Are essential oils suitable for sensitive or redness-prone skin? 
+Gentle essential oils—such as lavender, sandalwood, and geranium—are widely favored in calming skincare blends when kept at low dilutions (around 0.5%). However, because natural essential oils contain aromatic compounds that can still trigger reactions in very reactive skin, always perform a 24- to 48-hour patch test on your inner forearm before applying to your face.
+
+## 5. Can I pair essential oils with active skincare ingredients like azelaic acid, retinoids, or exfoliants? 
+It is best to keep your routine simple and avoid layering strong actives and essential oils in the exact same step, as combining multiple potent ingredients can overwhelm your skin barrier. Instead, alternate them (for example, using targeted actives on separate nights or applying your diluted facial oil as a final sealing step on non-active nights) and always wear broad-spectrum sunscreen during the day.
+
+## 6. How can essential oils help soften the look of post-pregnancy skin marks and uneven tone? 
+Once you are past pregnancy—and with approval from your healthcare provider if you are breastfeeding—diluted essential oil blends can be a nourishing addition to a post-pregnancy body and facial massage routine. Botanical oils such as frankincense, lavender, geranium, and sandalwood, blended into rich carrier oils like rosehip, sweet almond, or jojoba oil, help deeply moisturize stretching or recovering skin, support suppleness, and gradually promote a smoother, more even-looking skin tone over time.
+
+## 7. Which essential oils work best for acne, redness, and uneven skin tone?
+•	For breakout-prone skin: Tea tree and lavender are popular choices for refreshing congested areas.
+•	For redness and stressed skin: Lavender and sandalwood help comfort and soothe the look of flushed skin.
+•	For dullness and uneven tone: Geranium and frankincense support a smoother, more balanced-looking glow over time.
+
+## 8. Do essential oils replace daily sunscreen when managing melasma or dark spots? 
+No. Essential oils do not provide UV protection. If you are targeting melasma, sun spots, or post-acne marks, applying a broad-spectrum SPF 30 or higher every morning is essential to prevent UV light from darkening existing pigmentation.
